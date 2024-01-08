@@ -1,4 +1,4 @@
-# Dashboard Prediksi Penjualan E-commerce:
+# Dashboard Prediksi Penjualan E-commerce dengan Rshiny
 
 Repositori ini berisi kode untuk sebuah Dashboard Interaktif Prediksi Penjualan E-commerce yang dibuat menggunakan R Shiny. Dashboard ini dapat digunakan untuk memprediksi penjualan berdasarkan berbagai faktor seperti pengunjung website, jumlah transaksi, rating kepuasan pelanggan, dan iklan online.
 
